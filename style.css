@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap');
 h1 {
-    color: white; 
+  width: 50%;  
+  color: white; 
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
